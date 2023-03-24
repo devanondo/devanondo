@@ -1,6 +1,6 @@
 ### Hi there I'm Anondo Bormon👋
 
-- 🌱 I’m currently learning React JS, Node JS, MondoDB
+- 🌱 I’m currently learning Next JS and Prisma
 - 🤔 I’m looking for help with Documentation
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/anondo-bormon-32b84a210/)
 
