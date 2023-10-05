@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanondo&show_icons=true&locale=en" alt="devanondo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanondo&" alt="devanondo" /></p>
